@@ -5,8 +5,8 @@
 - Format account data into printable format.
 - Ask user for a guess.
 - Check if user is correct.
-    ## Get follower count.
-    ## If Statement
+  *Get follower count.
+  *If Statement
 - Feedback.
 - Score Keeping.
 - Make game repeatable.
